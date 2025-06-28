@@ -66,5 +66,4 @@ echo "  out/boot.bin     - Boot sector"
 echo "  out/kernel.bin   - Kernel"
 echo "  out/simple_os.img - Bootable disk image"
 echo ""
-echo "To run: qemu-system-x86_64 -drive format=raw,file=out/simple_os.img
-"
+echo "To run: qemu-system-x86_64 -drive format=raw,file=out/simple_os.img"
